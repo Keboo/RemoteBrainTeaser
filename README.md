@@ -20,7 +20,8 @@ There are two unit tests. Each calls a method on the TestMe class. However, at f
 [Link 1](https://msdn.microsoft.com/en-us/library/system.runtime.remoting.contexts.contextattribute(v=vs.110).aspx) [Link 2](https://msdn.microsoft.com/en-us/library/system.runtime.remoting.contexts.icontributeobjectsink(v=vs.110).aspx) [Link 3](https://msdn.microsoft.com/en-us/library/system.runtime.remoting.messaging.imessagesink(v=vs.110).aspx)
 
 ### Solution
-I welcome any pull requests the provide solutions, extra points for documenting them with an explanation of why they work. At some arbitrary point in the future I will post the solution. 
+You can find a solution [here](https://github.com/Keboo/RemoteBrainTeaser/tree/solution), however I recommend giving the problem a shot before jumping straight to solution.
+I welcome any pull requests that provide alternate solutions, extra points for documentation that explain of why they work.
 
 ### But Why?
 Because brain teasers are fun and I love C#. As a professional developer I love learning the details of how my favorite language and its compiler work. 
