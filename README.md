@@ -1,5 +1,7 @@
 # RemoteBrainTeaser
 
+## Spoiler Alert - this branch contains the solution ##
+
 To [quote Randall Munroe](http://xkcd.com/356/)
 > There's a certain type of brain that's easily disabled. If you show it an interesting problem, it involuntarily drops everything else to work on it
 
